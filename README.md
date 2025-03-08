@@ -68,7 +68,7 @@ This project aims to predict car prices using data collected through web scrapin
 5. Run the Jupyter Notebook for data analysis and model training:
    ```bash
    jupyter notebook arabam_car_price_prediction.ipynb
-   ```
+   ``` 
 
 ## Contributors
 - [@Sevag9](https://github.com/Sevag9)
