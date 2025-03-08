@@ -11,7 +11,7 @@ This project aims to predict car prices using data collected through web scrapin
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Web Scraping Tools:** Requests, BeautifulSoup
-- **Regression Models:** Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regressor
+- **Regression Models:** Linear Regression, Ordinary Least Squares regression (OLS)
 
 ## Analysis Steps
 ### Data Collection
@@ -32,9 +32,7 @@ This project aims to predict car prices using data collected through web scrapin
 ### Model Training
 - Implemented the following models for regression analysis:
   - Linear Regression
-  - Ridge Regression
-  - Lasso Regression
-  - Decision Tree Regressor
+  - Ordinary Least Squares regression (OLS)
 - Evaluated models using metrics like Mean Squared Error (MSE) and R-squared score.
 
 ### Key Findings
