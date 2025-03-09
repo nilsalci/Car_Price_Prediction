@@ -63,7 +63,7 @@ This project aims to predict car prices using data collected through web scrapin
    ```
 4. Run the scraping script to collect data:
    ```bash
-   python arabam_web_scrap.py
+   python arabam_web_scraping.py
    ```
 5. Run the Jupyter Notebook for data analysis and model training:
    ```bash
